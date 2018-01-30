@@ -20,3 +20,5 @@
 NSString *const TWTRErrorDomain = @"TWTRErrorDomain";
 
 NSString *const TWTRLogInErrorDomain = @"TWTRLogInErrorDomain";
+
+NSString *const TWTRLogInErrorSampleDomain = @"TWTRLogInErrorSampleDomain";
